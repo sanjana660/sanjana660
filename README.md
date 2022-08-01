@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sanjana
-- 👀 I’m interested in Machine Learning, AI and Web development
-- 🌱 I’m currently pursuing my b.tech degree in the field of Computer Science Engineering
+- 👀 I’m interested in Machine Learning, AI, Application development and Web development
+- 🌱 Had b.tech degree in the field of Computer Science Engineering
 - ✨ Always ready to learn new skills
 - 📫 How to reach me at sanjanaj660@gmail.com
 
